@@ -10,9 +10,7 @@ npm install
 npm run connect *** verify db connection
 npm run start
 ```
-
 This repo is recommended to be used with `MySQL 5.7`.
-
 ### Documentation
 * [MySQL](https://github.com/mysqljs/mysql): MySQL Github documentation
 
